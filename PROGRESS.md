@@ -35,3 +35,13 @@
 - Opened `https://app.melius.com/`; login screen reached.
 - Submitted Gabriel email to Melius login; UI remained stuck on `Sending code...`.
 - Checked Gmail search for Melius emails; only exposed code was `015165` from 5:44 AM IST, already outside the 10-minute validity window. Melius canvas remains blocked on login/code flow.
+
+## 2026-05-20T01:08:00Z
+
+- Local wrapper inspected at `http://127.0.0.1:5174/` with `agent-browser`.
+- Screenshot saved to `/tmp/mel-x-mel-atelier-5174.png`.
+- `/polish` M2 route checked: `PLAYWRIGHT_CLI_REMOTE=m2worker`, but `playwright-cli-sessions browser start` failed because SSH to `m2worker` timed out. Full Polish Gate remains blocked on worker availability.
+- Created public GitHub repo `https://github.com/gabrielantonyxaviour/mel-x-mel-atelier` and pushed `main`.
+- Verified repo visibility is `PUBLIC`, owner is `gabrielantonyxaviour`, default branch is `main`.
+- Contra public challenge post renders at `https://contra.com/community/NZo1eq6f-join-the-dollar10-k-melius-challenge-nowexclusive`.
+- Contra login path renders empty through browser automation; submission field prefill remains blocked.

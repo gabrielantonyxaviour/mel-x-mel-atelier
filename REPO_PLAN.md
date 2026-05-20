@@ -34,7 +34,7 @@ Required evidence before marking repo ready:
 
 ## Current Status
 
-Status: GitHub account confirmed, repo creation pending.
+Status: public repo created and pushed.
 
 Evidence:
 
@@ -43,4 +43,12 @@ Evidence:
 - Public email field showed `gabrielantony56@gmail.com`.
 - `gh auth status` active account is `gabrielantonyxaviour`.
 
-Blockers: none for owner identity. Repo creation still pending.
+Public repo:
+
+- URL: `https://github.com/gabrielantonyxaviour/mel-x-mel-atelier`
+- Owner: `gabrielantonyxaviour`
+- Visibility: `PUBLIC`
+- Default branch: `main`
+- Latest pushed commit: `bfca905` (`Build Mel x Mel Atelier execution packet`)
+
+Blockers: none for repo creation/push.

@@ -149,7 +149,7 @@ The positive surprise is that Melius rewards showing process instead of hiding i
 - Melius canvas: pending; current blocker is Melius login/code flow.
 - Canvas screenshot: pending.
 - Walkthrough video: pending.
-- Public GitHub repo: pending.
+- Public GitHub repo: `https://github.com/gabrielantonyxaviour/mel-x-mel-atelier`.
 - Contra submission: pending.
 - Social post: pending.
 
@@ -157,11 +157,11 @@ The positive surprise is that Melius rewards showing process instead of hiding i
 
 - [ ] Confirm Gabriel Contra login/profile.
 - [ ] Confirm Gabriel GitHub login/profile.
-- [ ] Create public GitHub repo.
+- [x] Create public GitHub repo.
 - [ ] Build and verify demo wrapper.
 - [ ] Create Melius canvas after login/code flow clears.
 - [ ] Capture readable canvas screenshot.
 - [ ] Export or record walkthrough.
-- [ ] Prepare final Contra fields.
+- [x] Prepare final Contra fields in this packet.
 - [ ] Prepare X/LinkedIn post.
 - [ ] Stop before irreversible final submit unless Gabriel explicitly approves.

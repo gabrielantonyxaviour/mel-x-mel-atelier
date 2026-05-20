@@ -43,7 +43,7 @@ agent-browser --session melius-gabriel-contra --profile "Default" --allowed-doma
 
 ## Current Prefill Status
 
-Status: topic opened, form fields not yet accessible from the first page snapshot.
+Status: public challenge post accessible; login/submission path blocked in browser automation.
 
 Evidence log:
 
@@ -52,3 +52,7 @@ Evidence log:
 - Pending: login/profile visibility.
 - Pending: field list.
 - Observation: first `agent-browser snapshot -i` returned no interactive elements and full snapshot returned `(empty page)`, while title/URL resolved. Continue with URL-specific probes and keep submission copy in this packet until a form surface is found.
+- Confirmed: public challenge/community post URL `https://contra.com/community/NZo1eq6f-join-the-dollar10-k-melius-challenge-nowexclusive` renders and exposes the challenge thread.
+- Observed: page shows `Log In`, disabled `Sign Up`, disabled `Post a job`, and disabled `Sign up to join` controls.
+- Blocker: clicking `Log In` navigates to `https://contra.com/log-in?redirectTo=%2Fcommunity%2FNZo1eq6f-join-the-dollar10-k-melius-challenge-nowexclusive`, but the page renders no accessible inputs/buttons/body text through `agent-browser`.
+- No irreversible submission action was taken.
