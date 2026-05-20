@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "kind": "hackathon-execution",
+  "hackathon": "Melius Challenge",
+  "idea": "Mel x Mel Atelier: Three Disagreeing Mels Build One Campaign",
+  "slug": "melius-challenge",
+  "runId": "2026-05-20T00-40-48Z",
+  "runDir": "/Users/gabrielantonyxaviour/Documents/hackathons/melius-challenge/execution/2026-05-20T00-40-48Z-mel-x-mel-atelier-three-disagreeing-mels-build-one-campaign",
+  "status": "running",
+  "agent": "gpt-5.5-builder",
+  "modelPolicy": "execution-code-builds-must-use-gpt-5.5-or-claude-opus-4.7-not-kimi",
+  "output": "/Users/gabrielantonyxaviour/Documents/hackathons/melius-challenge/execution/2026-05-20T00-40-48Z-mel-x-mel-atelier-three-disagreeing-mels-build-one-campaign/outputs/builder-report.md"
+}

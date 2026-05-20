@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">The water remembered you before the market did</title>
+  <desc id="desc">Editorial campaign poster with ocean bands, a small island horizon, and campaign typography.</desc>
+  <rect width="1200" height="1500" fill="#f4eadb"/>
+  <rect x="72" y="72" width="1056" height="1356" fill="#0f1715"/>
+  <path d="M72 708 C228 620 374 796 520 704 C684 600 818 724 972 642 C1040 606 1098 596 1128 598 L1128 1428 L72 1428 Z" fill="#286f68"/>
+  <path d="M72 848 C246 762 416 920 580 838 C752 752 894 872 1128 766 L1128 1428 L72 1428 Z" fill="#78b7aa"/>
+  <path d="M72 1038 C286 952 420 1090 630 1014 C814 948 982 1038 1128 972 L1128 1428 L72 1428 Z" fill="#f4eadb"/>
+  <circle cx="928" cy="362" r="128" fill="#e85c45"/>
+  <rect x="148" y="222" width="440" height="18" fill="#78b7aa"/>
+  <text x="148" y="338" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#f4eadb">The water</text>
+  <text x="148" y="440" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#f4eadb">remembered you</text>
+  <text x="148" y="542" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#f4eadb">before the</text>
+  <text x="148" y="644" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#f4eadb">market did.</text>
+  <text x="152" y="1192" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="5" fill="#0f1715">BAHAMAS, WITHOUT THE PRESS RELEASE</text>
+  <text x="152" y="1260" font-family="Arial, sans-serif" font-size="26" fill="#0f1715">A campaign direction selected by Editor Mel.</text>
+</svg>
