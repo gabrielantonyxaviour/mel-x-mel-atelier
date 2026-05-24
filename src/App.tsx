@@ -19,7 +19,10 @@ export function App() {
           </div>
         </div>
         <figure className="poster" id="canvas">
-          <img src={posterUrl} alt="Campaign poster for the final Bahamas tourism direction" />
+          <img
+            src={posterUrl}
+            alt="Campaign poster for the final Bahamas tourism direction"
+          />
           <figcaption>
             Working final line: The water remembered you before the market did.
           </figcaption>
@@ -42,7 +45,10 @@ export function App() {
         <div className="persona-lanes">
           {personas.map((persona) => (
             <article className="lane" key={persona.name}>
-              <div className="lane__rule" style={{ background: persona.color }} />
+              <div
+                className="lane__rule"
+                style={{ background: persona.color }}
+              />
               <div>
                 <p className="lane__score">{persona.score}</p>
                 <h3>{persona.name}</h3>

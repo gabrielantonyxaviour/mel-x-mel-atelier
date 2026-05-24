@@ -31,10 +31,11 @@ The Vite/React wrapper renders the judge-facing case study: the messy brief, thr
 
 ## Current Artifact Status
 
-- Demo wrapper: implemented and buildable.
-- Melius canvas: blocked at login/code flow at the time of this execution pass.
-- Contra submission: portal topic opened; form fields were not exposed by the first browser snapshot.
-- GitHub repo: planned for public `gabrielantonyxaviour/mel-x-mel-atelier`.
+- **Demo wrapper:** implemented, builds clean (`tsc` + Vite, 570ms, 0 errors).
+- **GitHub repo:** public at `https://github.com/gabrielantonyxaviour/mel-x-mel-atelier`.
+- **Melius canvas:** pending — requires Melius login to build and capture a shareable link.
+- **Contra submission:** submission copy ready in `EXECUTION_PACKET.md`; final submit requires Gabriel.
+- **Canvas link placeholder:** *(to be updated after Melius login and canvas creation)*
 
 ## Final Campaign Line
 
